@@ -1,0 +1,18 @@
+.bg-container{
+    background-image:linear-gradient(to right, #49c4ee, #6e87d6) ;
+    height:100vh;
+}
+.joke-text{
+    color:#ffffff;
+    font-family:'Roboto';
+    font-size:30px;
+    font-weight:700;
+}
+.joke-button{
+    border-radius:4px;
+    background-color: #ffffff;
+    color:#6c8bd8;
+    font-size:24px;
+    border-width:0px;
+    width:120px;
+}
